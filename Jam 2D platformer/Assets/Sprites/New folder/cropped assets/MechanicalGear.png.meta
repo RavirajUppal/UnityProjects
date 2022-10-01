@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 80da4cf7dda87514ea16a1ed97646293
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8096342000467762609
+    second: MechanicalGear_0
+  - first:
+      213: -2525562454473106704
+    second: MechanicalGear_1
+  - first:
+      213: 5491042816194980344
+    second: MechanicalGear_2
+  - first:
+      213: 7563613440413255949
+    second: MechanicalGear_3
+  - first:
+      213: -9192370255603576364
+    second: MechanicalGear_4
+  - first:
+      213: 8356533018292531647
+    second: MechanicalGear_5
+  - first:
+      213: -2204486761165306989
+    second: MechanicalGear_6
+  - first:
+      213: 7741557753474555707
+    second: MechanicalGear_7
+  - first:
+      213: -4960712479109314125
+    second: MechanicalGear_8
+  - first:
+      213: -2956317335472979054
+    second: MechanicalGear_9
+  - first:
+      213: -5819269274605596984
+    second: MechanicalGear_10
+  - first:
+      213: -8392967236708627968
+    second: MechanicalGear_11
+  - first:
+      213: -900879214807489404
+    second: MechanicalGear_12
+  - first:
+      213: 2406930598903260372
+    second: MechanicalGear_13
+  - first:
+      213: -6854205060740180823
+    second: MechanicalGear_14
+  - first:
+      213: 5675449811179229570
+    second: MechanicalGear_15
+  - first:
+      213: -3665170068883920243
+    second: MechanicalGear_16
+  - first:
+      213: -1201260070658651950
+    second: MechanicalGear_17
+  - first:
+      213: 3349603877333815509
+    second: MechanicalGear_18
+  - first:
+      213: -3512829870239213583
+    second: MechanicalGear_19
+  - first:
+      213: -1593052247304335597
+    second: MechanicalGear_20
+  - first:
+      213: -534702173347180823
+    second: MechanicalGear_21
+  - first:
+      213: -7295153792527769164
+    second: MechanicalGear_22
+  - first:
+      213: 133920940147549164
+    second: MechanicalGear_23
+  - first:
+      213: 3985425701508349619
+    second: MechanicalGear_24
+  - first:
+      213: -800776110420871124
+    second: MechanicalGear_25
+  - first:
+      213: 4562868314066384013
+    second: MechanicalGear_26
+  - first:
+      213: 2229009891697134559
+    second: MechanicalGear_27
+  - first:
+      213: 693795357538729146
+    second: MechanicalGear_28
+  - first:
+      213: -8998178181089578254
+    second: MechanicalGear_29
+  - first:
+      213: 1836103941622627733
+    second: MechanicalGear_30
+  - first:
+      213: 8684723640247620513
+    second: MechanicalGear_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MechanicalGear_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 481
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdd4f5372cfb5070800000000000000
+      internalID: 8096342000467762609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 481
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa1113245663fcd0800000000000000
+      internalID: -2525562454473106704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 480
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f923c9395a143c40800000000000000
+      internalID: 5491042816194980344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 481
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09c33ea95a57f860800000000000000
+      internalID: 7563613440413255949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 481
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1d1eea4f32e6080800000000000000
+      internalID: -9192370255603576364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 401
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1362d518e58f370800000000000000
+      internalID: 8356533018292531647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 401
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393c0b878f61861e0800000000000000
+      internalID: -2204486761165306989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 401
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f9500a2c98f6b60800000000000000
+      internalID: 7741557753474555707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 401
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b987d18842082bb0800000000000000
+      internalID: -4960712479109314125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 400
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293cdcfeb0d09f6d0800000000000000
+      internalID: -2956317335472979054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 320
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cec9c23d6dcd3fa0800000000000000
+      internalID: -5819269274605596984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 321
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a8d7c14c0368b80800000000000000
+      internalID: -8392967236708627968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 321
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484eddf802f6f73f0800000000000000
+      internalID: -900879214807489404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 321
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4a5a290a2276120800000000000000
+      internalID: 2406930598903260372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_14
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 321
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a495e8ffc8f0e0a0800000000000000
+      internalID: -6854205060740180823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28155ef888f33ce40800000000000000
+      internalID: 5675449811179229570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 241
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8aa7c2cd33b22dc0800000000000000
+      internalID: -3665170068883920243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 240
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8c78d8454445fe0800000000000000
+      internalID: -1201260070658651950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_18
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 241
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0d0cebafe2c7e20800000000000000
+      internalID: 3349603877333815509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 241
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7920448dbef3fc0800000000000000
+      internalID: -3512829870239213583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f89c2eb6754e9e0800000000000000
+      internalID: -1593052247304335597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 161
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee0301d43b5498f0800000000000000
+      internalID: -534702173347180823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1e98ee64862ca90800000000000000
+      internalID: -7295153792527769164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 161
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce32b71b268cbd100800000000000000
+      internalID: 133920940147549164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_24
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 161
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3befd115f831f4730800000000000000
+      internalID: 3985425701508349619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28beb9ce5213e4f0800000000000000
+      internalID: -800776110420871124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 81
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84ffc87e80925f30800000000000000
+      internalID: 4562868314066384013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 81
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb807bcfa80fee10800000000000000
+      internalID: 2229009891697134559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_28
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 81
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc39e8a33bd0a900800000000000000
+      internalID: 693795357538729146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_29
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 81
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f23c726e9c002380800000000000000
+      internalID: -8998178181089578254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d7c1b8ec62b7910800000000000000
+      internalID: 1836103941622627733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicalGear_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3956d1326568870800000000000000
+      internalID: 8684723640247620513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 96c58e7c19f5b79449a207b60354d891
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
